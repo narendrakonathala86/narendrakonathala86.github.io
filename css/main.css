@@ -426,20 +426,6 @@ p.lead {
 	transition: all 0.2s ease-in-out;
 }
 
-.work-panel-viaesca {
-	background-image: url('../images/viaesca_thumb.jpg');
-	background-size: 100%;
-}
-
-.work-panel-happysignals {
-	background-image: url('../images/happysignals_thumb.jpg');
-	background-size: 100%;
-}
-
-.work-panel-whim {
-	background-image: url('../images/whim_thumb.jpg');
-	background-size: 100%;
-}
 
 .work-panel .view-more {
 	opacity: 0;
